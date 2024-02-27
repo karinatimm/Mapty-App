@@ -1,0 +1,25 @@
+plugins:
+  - jest
+
+env:
+  node: true
+  browser: true
+
+extends:
+  - 'airbnb-base'
+  - 'plugin:jest/recommended'
+
+parserOptions:
+  ecmaVersion: latest
+
+rules:
+  no-console: 0
+  import/extensions: off
+  no-underscore-dangle: off
+  no-undef: off
+  class-methods-use-this: off
+  no-restricted-globals: off
+  no-multi-assign: off
+  no-return-assign: off
+  no-unused-vars: off
+  max-classes-per-file: off
