@@ -14,7 +14,7 @@ This project was completed by me as part of the course "The Complete JavaScript 
 
 ### Deployment
 
-This project has been deployed on Netlify and is accessible at the following URL:
+Click this badge to visit the deployed Mapty App on Netlify:
 **[![Netlify Status](https://api.netlify.com/api/v1/badges/630fe60b-b94e-4b2a-a165-f476d7b89165/deploy-status)](https://mapty-app-kartim.netlify.app)**
 
 ## System Requirements if one wants to run this Mapty App locally:
