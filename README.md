@@ -9,6 +9,7 @@ This project was completed by me as part of the course "The Complete JavaScript 
 - **Track Workouts**: With Mapty, you can log various types of workouts, including running and cycling. Simply input various details such as distance, duration, type of workout and etc., and Mapty will display your workouts on a map for easy reference.
 - **Interactive Map**: Mapty integrates with a third-party map service to provide an interactive map interface. You can view your workout routes, locations, and details directly on the map, making it convenient to visualize your fitness activities.
 - **Geolocation**: Mapty automatically detects your current location using geolocation technology. This allows you to start tracking your workouts from anywhere without needing to manually enter your location.
+- **Interactive Workout Popup**: Clicking on a workout in the sidebar automatically navigates the map to the corresponding location popup, providing seamless navigation between workout details and map visualization. This feature enhances user interaction by allowing for quick access to workout details directly on the map interface.
 - **Save and Reset**: Mapty ensures that your workout data is saved locally, enabling access when the app is reloaded. If needed, users can click the reset button to clear their data.
 - **Error Handling**: Mapty provides clear and informative error message to help you troubleshoot any issues that may arise during the tracking process. This ensures a smooth and hassle-free user experience.
 
