@@ -2,7 +2,7 @@
 
 Welcome to Mapty App! Mapty is a web application designed to help you track and log your workouts. Whether you're running through the city streets or cycling along scenic routes, Mapty makes it easy to record your exercise activities and visualize them on a map. Please note that it may take some time for the map to be downloaded initially.
 
-This project was completed by me as part of the course "The Complete JavaScript Course 2024: From Zero to Expert!" created by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) on the Udemy educational platform. While this course provided the initial set of features, I successfully implemented them and expanded upon the project by introducing additional functionalities to enhance user experience such as convenient error display, reset results, and other usability improvements.
+This project was completed by me as part of the course "The Complete JavaScript Course 2024: From Zero to Expert!" created by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) on the Udemy educational platform. While this course provided the initial set of features, I successfully performed them and expanded upon the project by introducing additional functionalities to enhance user experience such as convenient error display, reset results, and other usability improvements. Moreover, I implemented the MVC (Model-View-Controller) architectural pattern in this application, which enhanced its maintainability, scalability and the readability of the code.
 
 ## Features
 
